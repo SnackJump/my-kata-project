@@ -1,4 +1,4 @@
-package codewars;
+package codewars.kyu4;
 
 /**
  * Title: SecretDetective<br>

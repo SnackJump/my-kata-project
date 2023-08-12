@@ -1,9 +1,9 @@
-package codewars;
+package codewars.kyu6;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import codewars.kyu6.Solution;
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
 /**

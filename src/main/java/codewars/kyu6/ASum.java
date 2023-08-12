@@ -1,4 +1,4 @@
-package codewars;
+package codewars.kyu6;
 
 import java.math.BigDecimal;
 

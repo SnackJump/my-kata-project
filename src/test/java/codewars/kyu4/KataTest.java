@@ -1,4 +1,4 @@
-package codewars;
+package codewars.kyu4;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

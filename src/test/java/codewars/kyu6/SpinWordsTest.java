@@ -1,7 +1,8 @@
-package codewars;
+package codewars.kyu6;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import codewars.kyu6.SpinWords;
 import org.junit.jupiter.api.Test;
 
 /**

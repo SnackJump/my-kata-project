@@ -1,4 +1,4 @@
-package codewars;
+package codewars.kyu5;
 
 import java.math.BigInteger;
 
